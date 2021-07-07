@@ -11,19 +11,13 @@ I downloaded the necessary OpenGL libraries and installed them.
 2- Then I created a new GLUT project in CodeBlock IDE and wrote the program.
 
 
-HOW TO WORK?
+HOW TO RUN?
 
 Option 1: 161044038_HW1\home_hw1 in the sent folder if CodeBlocks is installed
 There is a home_hw1.cbp file in the folder. Open this file and download it via CodeBlocks
 Build the code (build & run button) and run it.
 
-Option 2: If you want to run as .exe, 161044038_HW1\home_hw1\bin\Debug
-You can open the home_hw1.exe file located in the folder.
-
-Option 3: If you are using a different IDE (e.g. visual studio), Only main.cpp
+Option 2: If you are using a different IDE (e.g. visual studio), Only main.cpp
 You can run it the way you want using the code in the file.
 
-
 DEMO VIDEO: https://youtu.be/8_p1x22XPFY
-
-*** In the sent file, the running version of the program is available as a video.
