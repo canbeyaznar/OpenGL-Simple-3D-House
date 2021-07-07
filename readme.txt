@@ -1,3 +1,5 @@
+Simple 3D House with OpenGL
+
 This file describes how to run the OpenGL application located in the folder.
 The application was written on the Windows operating system and CodeBlocks was used as the IDE.
 
